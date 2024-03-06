@@ -1,9 +1,12 @@
 <p align="center">
+<a href="https://grpc.io/" target="blank"><img src="https://www.adictosaltrabajo.com/wp-content/uploads/2023/01/grpc-icon-color-1068x1068.png" width="200" alt="gRPC Logo" /></a>
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
+
+# gRPC-NestJS-Api Gateway
 
 ## Descripción
 
@@ -29,6 +32,12 @@ $ npm run proto:install
 $ npm run proto:install-local
 $ npm run proto:all
 ```
+
+## Prerequisitos
+
+- Clonar el archivo **.env.template** y renombrarlo a **.
+  env**
+- Cambiar las variables de entorno
 
 ## Ejecutar app
 
